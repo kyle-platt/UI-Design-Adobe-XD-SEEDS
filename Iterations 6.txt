@@ -1,0 +1,5 @@
+Add messaging pages.
+Add Settings page
+Link the notification page
+Button to the help area that shows how the functionality works
+Make stay in loop button a brighter color that sticks out
